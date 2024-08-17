@@ -1,0 +1,8 @@
+Package: rapido
+Version: 1.0.0
+Section: utils
+Priority: optional
+Architecture: all
+Depends: bash
+Maintainer: Voktex > ubguertin@gmail.com
+Description: This package is used to create instant project structure.
