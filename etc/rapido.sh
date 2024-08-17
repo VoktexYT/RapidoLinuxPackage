@@ -90,5 +90,5 @@ case "$1" in
         ;;
     
     --help)
-        echo -e "\nThe rapido package is used to save/import project structure easily.\n\n--- --- --- --- ---\n\nYou can import template with :\n  rapido --import <template name> <build path>\n\nYou can save template with :\n   rapido --save <template name> <template path>\n\nYou can list all template name with :\n   rapido --list"
+        echo -e "\nThe rapido package is used to save/import project structure easily.\n\n--- --- --- --- ---\n\nInit rapido with :\n  rapido --init\n\nImport template with :\n  rapido --import <template name> <build path>\n\nSave template with :\n   rapido --save <template name> <template path>\n\nList all template name with :\n   rapido --list\n\n"
 esac
