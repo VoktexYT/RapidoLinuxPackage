@@ -1,7 +1,7 @@
 PACKAGE_NAME="rapido"
 
 echo -e "\033[1;34m\nConvert src/ files to bin/ \033[0m\n"
-shc -f ./src/rapido.sh -o ./usr/local/bin/rapido
+shc -f ./etc/rapido.sh -o ./usr/local/bin/rapido
 
 cd ..
 
